@@ -1,2 +1,2 @@
 # LINEAR_SEARCH
-IMPLEMENTATION OF LINEAR SEARCH IN C++
+Linear search is a simple searching algorithm that checks every element in a list until it finds the desired element. In C++, the implementation of linear search involves iterating through an array or vector and comparing each element with the target value. The algorithm starts at the beginning of the list and checks each element in sequence until it finds the target value or reaches the end of the list. If the target value is found, the algorithm returns the index of the element; otherwise, it returns a special value indicating that the element was not found.
