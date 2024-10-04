@@ -20,6 +20,7 @@ int main(){
    
 if (i==n){
         cout<<"Element not found in array";
-    }
+   }
+  return 0;
 
  }
