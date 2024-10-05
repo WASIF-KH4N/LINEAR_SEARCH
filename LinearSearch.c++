@@ -13,10 +13,9 @@ int main(){
     for(int i=0;i<n;i++){
          if (arr[i]==x){
         cout<<"Element found at index: "<<i;
-    
-       }
-  
-    }
+             break;
+        }
+     }
    
 if (i==n){
         cout<<"Element not found in array";
